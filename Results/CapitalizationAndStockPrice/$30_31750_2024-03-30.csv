@@ -1,0 +1,31 @@
+CompanyName,Symbol,MarketCapitalization(%),StockPrice($),Allocations
+Microsoft Corp,MSFT,7.11,420.72,14.0
+Amazon.com Inc,AMZN,3.73,180.38,18.0
+"Meta Platforms, Inc. Class A",META,2.47,485.58,4.0
+Alphabet Inc. Class A,GOOGL,2.02,150.93,11.0
+Berkshire Hathaway Class B,BRK.B,1.72,420.52,3.0
+Alphabet Inc. Class C,GOOG,1.7,152.26,9.0
+Eli Lilly & Co.,LLY,1.41,777.96,2.0
+Broadcom Inc.,AVGO,1.32,1325.41,1.0
+Jpmorgan Chase & Co.,JPM,1.31,200.3,6.0
+Exxon Mobil Corporation,XOM,1.04,116.24,8.0
+Visa Inc.,V,1.0,279.08,3.0
+Mastercard Incorporated,MA,0.9,481.57,2.0
+"Home Depot, Inc.",HD,0.87,383.6,2.0
+Procter & Gamble Company,PG,0.87,162.25,5.0
+Johnson & Johnson,JNJ,0.86,158.19,5.0
+"Merck & Co., Inc.",MRK,0.76,131.95,5.0
+Costco Wholesale Corp,COST,0.74,732.63,1.0
+Abbvie Inc.,ABBV,0.72,182.1,3.0
+"Salesforce, Inc.",CRM,0.66,301.18,2.0
+Advanced Micro Devices,AMD,0.66,180.49,3.0
+Chevron Corporation,CVX,0.62,157.74,3.0
+Netflix Inc,NFLX,0.6,607.33,1.0
+Bank of America Corporation,BAC,0.59,37.92,13.0
+Walmart Inc.,WMT,0.59,60.17,8.0
+"Pepsico, Inc.",PEP,0.54,175.01,2.0
+Coca-Cola Company,KO,0.54,61.18,8.0
+Linde Plc,LIN,0.51,464.32,1.0
+"Thermo Fisher Scientific, Inc.",TMO,0.51,581.21,1.0
+The Walt Disney Company,DIS,0.5,122.36,3.0
+Wells Fargo & Co.,WFC,0.47,57.96,7.0

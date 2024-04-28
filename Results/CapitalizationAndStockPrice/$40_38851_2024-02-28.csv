@@ -1,0 +1,41 @@
+CompanyName,Symbol,MarketCapitalization(%),StockPrice($),Allocations
+Microsoft Corp,MSFT,7.12,407.48,13.0
+Apple Inc.,AAPL,6.23,182.63,26.0
+Nvidia Corp,NVDA,4.55,787.01,4.0
+Amazon.com Inc,AMZN,3.72,173.54,16.0
+"Meta Platforms, Inc. Class A",META,2.51,487.05,4.0
+Alphabet Inc. Class A,GOOGL,1.99,138.88,11.0
+Berkshire Hathaway Class B,BRK.B,1.77,408.91,3.0
+Alphabet Inc. Class C,GOOG,1.69,140.1,9.0
+Eli Lilly & Co.,LLY,1.43,765.0,1.0
+Broadcom Inc.,AVGO,1.33,1296.23,1.0
+Jpmorgan Chase & Co.,JPM,1.24,183.45,5.0
+Visa Inc.,V,1.06,283.17,3.0
+Exxon Mobil Corporation,XOM,0.97,104.03,7.0
+Mastercard Incorporated,MA,0.92,474.75,1.0
+Johnson & Johnson,JNJ,0.91,160.98,4.0
+Procter & Gamble Company,PG,0.89,159.3,4.0
+"Home Depot, Inc.",HD,0.87,375.56,2.0
+"Merck & Co., Inc.",MRK,0.77,129.03,4.0
+Costco Wholesale Corp,COST,0.76,744.71,1.0
+Abbvie Inc.,ABBV,0.73,178.99,3.0
+Advanced Micro Devices,AMD,0.67,178.0,3.0
+"Salesforce, Inc.",CRM,0.67,299.5,2.0
+Chevron Corporation,CVX,0.63,152.16,3.0
+Netflix Inc,NFLX,0.6,601.67,1.0
+Walmart Inc.,WMT,0.59,59.59,7.0
+Coca-Cola Company,KO,0.56,60.34,7.0
+Accenture Plc,ACN,0.55,377.91,1.0
+Bank of America Corporation,BAC,0.55,34.28,12.0
+"Pepsico, Inc.",PEP,0.54,168.16,2.0
+"Thermo Fisher Scientific, Inc.",TMO,0.51,566.17,1.0
+Linde Plc,LIN,0.51,444.8,1.0
+Mcdonald's Corporation,MCD,0.5,293.76,1.0
+Abbott Laboratories,ABT,0.48,119.4,3.0
+"Cisco Systems, Inc.",CSCO,0.46,48.31,7.0
+The Walt Disney Company,DIS,0.46,109.42,3.0
+Wells Fargo & Co.,WFC,0.46,54.81,6.0
+Intuit Inc,INTU,0.43,669.36,0.0
+Oracle Corp,ORCL,0.42,111.38,3.0
+Qualcomm Inc,QCOM,0.4,158.3,2.0
+International Business Machines Corporation,IBM,0.4,184.87,2.0

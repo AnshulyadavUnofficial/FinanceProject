@@ -1,0 +1,47 @@
+CompanyName,Symbol,MarketCapitalization(%),StockPrice($)
+"Microsoft Corp",MSFT,7.11,420.72
+"Amazon.com Inc",AMZN,3.73,180.38
+"Meta Platforms, Inc. Class A",META,2.47,485.58
+"Alphabet Inc. Class A",GOOGL,2.02,150.93
+"Berkshire Hathaway Class B",BRK.B,1.72,420.52
+"Alphabet Inc. Class C",GOOG,1.70,152.26
+"Eli Lilly & Co.",LLY,1.41,777.96
+"Broadcom Inc.",AVGO,1.32,1325.41
+"Jpmorgan Chase & Co.",JPM,1.31,200.30
+"Exxon Mobil Corporation",XOM,1.04,116.24
+"Visa Inc.",V,1.00,279.08
+"Mastercard Incorporated",MA,0.90,481.57
+"Home Depot, Inc.",HD,0.87,383.60
+"Procter & Gamble Company",PG,0.87,162.25
+"Johnson & Johnson",JNJ,0.86,158.19
+"Merck & Co., Inc.",MRK,0.76,131.95
+"Costco Wholesale Corp",COST,0.74,732.63
+"Abbvie Inc.",ABBV,0.72,182.10
+"Salesforce, Inc.",CRM,0.66,301.18
+"Advanced Micro Devices",AMD,0.66,180.49
+"Chevron Corporation",CVX,0.62,157.74
+"Netflix Inc",NFLX,0.60,607.33
+"Bank of America Corporation",BAC,0.59,37.92
+"Walmart Inc.",WMT,0.59,60.17
+"Pepsico, Inc.",PEP,0.54,175.01
+"Coca-Cola Company",KO,0.54,61.18
+"Linde Plc",LIN,0.51,464.32
+"Thermo Fisher Scientific, Inc.",TMO,0.51,581.21
+"The Walt Disney Company",DIS,0.50,122.36
+"Wells Fargo & Co.",WFC,0.47,57.96
+"Oracle Corp",ORCL,0.45,125.61
+"General Electric Company",GE,0.44,175.53
+"Qualcomm Inc",QCOM,0.43,169.30
+"Caterpillar Inc.",CAT,0.42,366.43
+"International Business Machines Corporation",IBM,0.40,190.96
+"Applied Materials Inc",AMAT,0.39,206.23
+"Danaher Corporation",DHR,0.37,249.72
+"Uber Technologies, Inc.",UBER,0.36,76.99
+"Texas Instruments Incorporated",TXN,0.36,174.21
+"Pfizer Inc.",PFE,0.36,27.75
+"Servicenow, Inc.",NOW,0.35,762.40
+"Amgen Inc",AMGN,0.35,284.32
+"Conocophillips",COP,0.34,127.28
+"Union Pacific Corp.",UNP,0.34,245.93
+"Lowe's Companies Inc.",LOW,0.33,254.73
+"Philip Morris International Inc.",PM,0.32,91.62

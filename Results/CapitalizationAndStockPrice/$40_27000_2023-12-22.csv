@@ -1,0 +1,41 @@
+CompanyName,Symbol,MarketCapitalization(%),StockPrice($),Allocations
+Apple Inc.,AAPL,7.2,194.68,19.0
+Microsoft Corp,MSFT,6.93,373.54,10.0
+Amazon.com Inc,AMZN,3.5,153.84,12.0
+Nvidia Corp,NVDA,3.06,489.9,3.0
+Alphabet Inc. Class A,GOOGL,2.02,140.42,7.0
+"Meta Platforms, Inc. Class A",META,1.94,354.09,3.0
+"Tesla, Inc.",TSLA,1.77,254.5,4.0
+Alphabet Inc. Class C,GOOG,1.72,141.81,6.0
+Berkshire Hathaway Class B,BRK.B,1.65,356.14,2.0
+Broadcom Inc.,AVGO,1.25,1127.29,1.0
+Jpmorgan Chase & Co.,JPM,1.22,167.5,4.0
+Unitedhealth Group Incorporated,UNH,1.21,519.88,1.0
+Eli Lilly & Co.,LLY,1.15,572.0,1.0
+Visa Inc.,V,1.03,259.54,2.0
+Exxon Mobil Corporation,XOM,1.03,101.73,5.0
+Johnson & Johnson,JNJ,0.94,154.84,3.0
+"Home Depot, Inc.",HD,0.88,348.97,1.0
+Mastercard Incorporated,MA,0.88,423.44,1.0
+Procter & Gamble Company,PG,0.86,144.26,3.0
+Costco Wholesale Corp,COST,0.75,665.16,1.0
+Adobe Inc.,ADBE,0.69,600.14,1.0
+Abbvie Inc.,ABBV,0.68,152.59,2.0
+"Merck & Co., Inc.",MRK,0.67,106.39,3.0
+Chevron Corporation,CVX,0.67,150.71,2.0
+"Salesforce, Inc.",CRM,0.64,267.25,1.0
+Bank of America Corporation,BAC,0.58,33.2,9.0
+"Pepsico, Inc.",PEP,0.58,166.97,2.0
+Coca-Cola Company,KO,0.57,57.99,5.0
+Advanced Micro Devices,AMD,0.57,139.91,2.0
+Walmart Inc.,WMT,0.55,154.8,2.0
+Netflix Inc,NFLX,0.54,491.61,1.0
+Accenture Plc,ACN,0.54,348.75,1.0
+Mcdonald's Corporation,MCD,0.53,291.39,1.0
+"Thermo Fisher Scientific, Inc.",TMO,0.51,526.56,1.0
+"Cisco Systems, Inc.",CSCO,0.51,49.7,5.0
+Linde Plc,LIN,0.5,409.02,1.0
+Intel Corp,INTC,0.49,47.08,5.0
+Abbott Laboratories,ABT,0.47,108.48,2.0
+Wells Fargo & Co.,WFC,0.45,49.45,5.0
+Comcast Corp,CMCSA,0.45,44.02,5.0

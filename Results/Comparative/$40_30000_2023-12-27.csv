@@ -1,0 +1,41 @@
+CompanyName,Symbol,Prev Allocation,New Allocation,Change in Allocation
+Apple Inc.,AAPL,19.0,21.0,2.0
+Microsoft Corp,MSFT,10.0,11.0,1.0
+Amazon.com Inc,AMZN,12.0,13.0,1.0
+Nvidia Corp,NVDA,3.0,3.0,0.0
+Alphabet Inc. Class A,GOOGL,7.0,8.0,1.0
+"Meta Platforms, Inc. Class A",META,3.0,3.0,0.0
+"Tesla, Inc.",TSLA,4.0,4.0,0.0
+Alphabet Inc. Class C,GOOG,6.0,7.0,1.0
+Berkshire Hathaway Class B,BRK.B,2.0,3.0,1.0
+Broadcom Inc.,AVGO,1.0,1.0,0.0
+Jpmorgan Chase & Co.,JPM,4.0,4.0,0.0
+Unitedhealth Group Incorporated,UNH,1.0,1.0,0.0
+Eli Lilly & Co.,LLY,1.0,1.0,0.0
+Visa Inc.,V,2.0,2.0,0.0
+Exxon Mobil Corporation,XOM,5.0,6.0,1.0
+Johnson & Johnson,JNJ,3.0,3.0,0.0
+"Home Depot, Inc.",HD,1.0,1.0,0.0
+Mastercard Incorporated,MA,1.0,1.0,0.0
+Procter & Gamble Company,PG,3.0,3.0,0.0
+Costco Wholesale Corp,COST,1.0,1.0,0.0
+Adobe Inc.,ADBE,1.0,1.0,0.0
+Abbvie Inc.,ABBV,2.0,3.0,1.0
+"Merck & Co., Inc.",MRK,3.0,4.0,1.0
+Chevron Corporation,CVX,2.0,3.0,1.0
+"Salesforce, Inc.",CRM,1.0,1.0,0.0
+Bank of America Corporation,BAC,9.0,10.0,1.0
+"Pepsico, Inc.",PEP,2.0,2.0,0.0
+Coca-Cola Company,KO,5.0,6.0,1.0
+Advanced Micro Devices,AMD,2.0,2.0,0.0
+Walmart Inc.,WMT,2.0,2.0,0.0
+Netflix Inc,NFLX,1.0,1.0,0.0
+Accenture Plc,ACN,1.0,1.0,0.0
+Mcdonald's Corporation,MCD,1.0,1.0,0.0
+"Thermo Fisher Scientific, Inc.",TMO,1.0,1.0,0.0
+"Cisco Systems, Inc.",CSCO,5.0,6.0,1.0
+Linde Plc,LIN,1.0,1.0,0.0
+Intel Corp,INTC,5.0,6.0,1.0
+Abbott Laboratories,ABT,2.0,2.0,0.0
+Wells Fargo & Co.,WFC,5.0,5.0,0.0
+Comcast Corp,CMCSA,5.0,6.0,1.0

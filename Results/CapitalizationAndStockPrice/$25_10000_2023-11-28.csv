@@ -1,0 +1,26 @@
+CompanyName,Symbol,MarketCapitalization(%),StockPrice($),Allocations
+Apple Inc,AAPL,7.12,189.97,9.0
+Microsoft Corp,MSFT,6.49,377.43,4.0
+Amazon.com Inc,AMZN,3.21,146.74,5.0
+NVIDIA Corp,NVDA,3.18,477.76,2.0
+Alphabet Inc Class A,GOOGL,2.1,136.69,3.0
+Alphabet Inc. Class C,GOOG,1.82,138.22,3.0
+Meta Platforms Inc Class A,META,1.73,338.23,1.0
+Berkshire Hathaway Inc,BRK.B,1.73,362.68,1.0
+Tesla Inc,TSLA,1.69,235.45,2.0
+UnitedHealth Group Inc,UNH,1.24,547.1,1.0
+Eli Lilly & Co,LLY,1.18,601.1,0.0
+JPMorgan Chase & Co,JPM,1.17,153.54,2.0
+Exxon Mobil Corp,XOM,1.17,104.57,3.0
+Johnson & Johnson,JNJ,1.08,152.5,2.0
+Visa Inc. Class A,V,1.06,254.3,1.0
+Procter & Gamble Co.,PG,0.98,151.38,1.0
+Broadcom Inc.,AVGO,0.97,978.87,0.0
+Mastercard Inc. Class A,MA,0.91,412.5,1.0
+Home Depot Inc.,HD,0.89,310.7,1.0
+Chevron Corp,CVX,0.77,144.9,1.0
+Merck & Co. Inc,MRK,0.76,101.87,2.0
+AbbVie Inc.,ABBV,0.71,138.67,1.0
+PepsiCo Inc.,PEP,0.67,169.37,1.0
+Costco Wholesale Corp,COST,0.64,591.36,0.0
+Adobe Inc.,ADBE,0.64,619.43,0.0
